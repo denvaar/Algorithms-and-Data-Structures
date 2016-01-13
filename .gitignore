@@ -1,3 +1,6 @@
+*.out
+*.class
+*.png
 *.pyc
 *.pages
 *.pdf
